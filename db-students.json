@@ -1,0 +1,33 @@
+{
+    "students": [
+		{
+			"id": 1,
+			"name": "Петр Иванов",
+			"phone": 79562312134,
+			"email": "petrivanov@none.ru",
+			"product": "course-html"
+		},
+		{
+			"id": 2,
+			"name": "Елена Сидоровна",
+			"phone": 79562311134,
+			"email": "sidr233@none.ru",
+			"product": "course-html"
+		},
+		{
+			"id": 3,
+			"name": "Петр Иванов",
+			"phone": 79562312134,
+			"email": "petrivanov@NamedNodeMap.ru",
+			"product": "course-html",
+		},
+		{
+			"id": 4,
+			"name": "Петр Иванов",
+			"phone": 79562312134,
+			"email": "petrivanov@NamedNodeMap.ru",
+			"product": "course-html"
+		}
+	]
+}
+
